@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Makanan Khas Indonesia</string>
+
+    <!-- Strings related to permission dialog -->
+    <string name="title_permission">Butuh Izin</string>
+    <string name="msg_permission_0">Aplikasi membutuhkan izin akses untuk menjalankan tanpa masalah.</string>
+    <string name="msg_permission_1">Kamu menolak izin akses. Izinkan semua akses di [Pengaturan] > [Aplikasi atau Izin Akses]</string>
+    <string name="positive_permission_0">Ya, Izinkan Akses</string>
+    <string name="positive_permission_1">Ke Pengaturan</string>
+    <string-array name="msg_permissions">
+        <item>@string/msg_permission_0</item>
+        <item>@string/msg_permission_1</item>
+    </string-array>
+    <string-array name="positive_permission">
+        <item>@string/positive_permission_0</item>
+        <item>@string/positive_permission_1</item>
+    </string-array>
+    <string name="negative_permission">Tidak, Keluar aplikasi</string>
+
+    <!-- Strings related to generals -->
+    <string name="msg_no_internet">Tidak ada koneksi internet</string>
+    <string name="msg_back_online">Kembali daring</string>
+    <string name="msg_exit">Tekan kembali lagi untuk keluar</string>
+    <string name="msg_data_results">Oops, tidak dapat menemukan hasil apapun \n yang cocok dengan filter anda.</string>
+    <string name="msg_data_empty">Oops, Data kosong !</string>
+    <string name="textfield_search">Cari&#8230;</string>
+    <string name="copyright">&#169; Copyright Laminal Falah %s - %s</string>
+    <string name="credit">
+        Terima kasih kepada : \n
+        www.idntimes.com \n
+        www.wikipedia.com \n
+        www.tribunnews.com \n
+        www.wikiwand.com \n
+    </string>
+    <!-- Snackbar -->
+    <string name="snack_bar_add">tambah data</string>
+    <string name="snack_bar_update">mengubah data</string>
+    <string name="snack_bar_delete">menghapus data</string>
+    <string name="snack_bar_success">Berhasil %s %s</string>
+    <string name="snack_bar_error">Kesalahan -> %s</string>
+
+    <!-- String related to login -->
+    <string name="title_login">Form Login</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_kata_sandi">Kata Sandi</string>
+    <string name="hint_button_login">Masuk</string>
+    <string name="error_login">%s diperlukan !</string>
+    <string name="error_invalid_email">Alamat Email tidak benar</string>
+    <string name="error_credentials_email">Alamat Email belum terdaftar</string>
+    <string name="error_invalid_password">Kata Sandi Mininum 8 Karakter</string>
+    <string name="error_incorrect_password">Kata Sandi tidak benar</string>
+    <string name="msg_login_success">Berhasil Masuk</string>
+    <string name="msg_login_failed">Gagal Masuk</string>
+    <string name="msg_logout">Keluar</string>
+
+    <!-- String related to makanan -->
+    <string name="makanan">Makanan</string>
+    <string name="add_title">Tambah</string>
+    <string name="edit_title">Ubah</string>
+    <string name="delete_title">Hapus</string>
+    <string name="choose_image">Pilih :</string>
+    <string name="toolbar_makanan">%s Makanan</string>
+    <string name="hint_nama_makanan">Nama Makanan</string>
+    <string name="hint_foto_makanan">Foto Makanan</string>
+    <string name="hint_harga_makanan">Harga Makanan</string>
+    <string name="hint_rating_makanan">Rating Makanan</string>
+    <string name="hint_deskripsi_makanan">Deskripsi Makanan</string>
+    <string name="error_makanan">%s diperlukan !</string>
+    <string name="msg_delete_makanan">Apakah anda yakin menghapus %s dari daftar %s</string>
+    <string name="msg_delete_success">Berhasil menghapus %s</string>
+    <string name="msg_delete_failed">Gagal menghapus %s</string>
+    <string name="positive_delete">Ya</string>
+    <string name="negative_delete">Tidak</string>
+    <string name="hint_harga_makanan_1">Rp. %s</string>
+
+    <!-- String related to about -->
+    <string name="title_following">Mengikuti</string>
+    <string name="title_follower">Pengikut</string>
+    <string name="isi_follow">0</string>
+    <string name="title_nama">Nama</string>
+    <string name="title_email">Email</string>
+
+    <!-- String related to Image -->
+    <string name="take_photo">Buka Kamera</string>
+    <string name="gallery_photo">Pilih Dari Galeri</string>
+    <string name="cancel_photo">Batal</string>
+    <string name="title_activity_detail_makanan">DetailMakananActivity</string>
+    <string name="title_activity_tentang">TentangActivity</string>
+
+</resources>

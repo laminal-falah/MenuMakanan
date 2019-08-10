@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "560468762492",
+    "firebase_url": "https://menumakanan-2118d.firebaseio.com",
+    "project_id": "menumakanan-2118d",
+    "storage_bucket": "menumakanan-2118d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560468762492:android:016602cc574efbe5",
+        "android_client_info": {
+          "package_name": "com.laminalfalah.menu.makanan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560468762492-71j0l8h47dpik8cm86r127nkm12gsb3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laminalfalah.menu.makanan",
+            "certificate_hash": "62133a919c492ec6e6fdb91bdb9c3571962a1980"
+          }
+        },
+        {
+          "client_id": "560468762492-fu0p49u4bb0si2ujvnhursqivk17rgl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9vaXLmH0uujoEwlOmJ5iQ0GrTmSr_COA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560468762492-fu0p49u4bb0si2ujvnhursqivk17rgl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
